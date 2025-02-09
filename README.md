@@ -23,7 +23,7 @@ Parameter Analyser is a PHP-based web application designed to analyze and evalua
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Shobhit-20-04/Parameter-Analyser.git
-   
+   ```
 2. **Move the project folder to your local server's root directory:**
   ```sh
   C:\wamp64\www\parameter-analyser
